@@ -1,2 +1,5 @@
 # testrepo
-Testing repo for Coursera course
+
+## Editing the file
+
+It's a mrkdown fiel in this reposytory.
